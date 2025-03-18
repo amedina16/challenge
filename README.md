@@ -1,0 +1,1 @@
+El desafio acepta la lista, despues realiza la rifa del amigo, en este desafio se requirio de investigacion para metodos de creacion de elementos en html, tambien sustituir elementos (para publciar el amigo rifado).
